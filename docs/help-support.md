@@ -6,8 +6,9 @@ sidebar_position: 12
 
 Documentation will add up with more tutorials.
 
-Contribute to documentation, you can opensource at [AtomicCD-Docs](https://github.com/iam-anshul/AtomicCD-docs)
-Contribute to AtomicCD at [AtomicCD Repository](https://github.com/iam-anshul)
+Contribute to documentation, you can opensource at [AtomicCD-Docs](https://github.com/iam-anshul/AtomicCD-docs).
+
+Contribute to AtomicCD at [AtomicCD Repository](https://github.com/iam-anshul).
 
 
 ---
