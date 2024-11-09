@@ -46,10 +46,7 @@ data:
 **Note:** The name of Track Config in the configmap must be `trackConfig.yaml`.
 
 ---
-For help and support you can reach to me at my socials:
 
-**[GitHub](https://github.com/iam-anshul)
-[LinkedIn](https://twitter.com/anshulsingh142)
-[Twitter](https://twitter.com/anshulsingh142)**
+**Incorrect Documentation ? [Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/Concepts/trackConfig.md)**
 
 ---

@@ -304,10 +304,7 @@ AtomicCD look up the Target Cing in git repository at every 3 minutes, meaning e
 AtomicCD provides sync triggers with webhooks (explained in Track Config section).
 
 ---
-For help and support you can reach to me at my socials:
 
-**[GitHub](https://github.com/iam-anshul)
-[LinkedIn](https://twitter.com/anshulsingh142)
-[Twitter](https://twitter.com/anshulsingh142)**
+**Incorrect Documentation ? [Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/Concepts/targetConfig.md)**
 
 ---

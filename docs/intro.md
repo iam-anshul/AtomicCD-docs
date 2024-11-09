@@ -24,12 +24,6 @@ AtomicCD runs in a pod with a deployment. It doesn't have a controller. The Atom
 
 ---
 
-**Incorrect Documentation ? [Raise a GitHub Issue](https://github.com/iam-anshul/AtomicCD/issues)**
-
-For help and support you can reach to me at my socials:
-
-**[GitHub](https://github.com/iam-anshul)
-[LinkedIn](https://twitter.com/anshulsingh142)
-[Twitter](https://twitter.com/anshulsingh142)**
+**Incorrect Documentation ? [Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/intro.md)**
 
 ---
