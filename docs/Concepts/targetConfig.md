@@ -305,6 +305,6 @@ AtomicCD provides sync triggers with webhooks (explained in Track Config section
 
 ---
 
-**Incorrect Documentation ? [Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/Concepts/targetConfig.md)**
+[Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/Concepts/targetConfig.md)**
 
 ---

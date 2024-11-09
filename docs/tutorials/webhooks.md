@@ -110,6 +110,6 @@ This tutorial shows how to set webhooks triggers for AtomicCD in Github Reposito
 
 ---
 
-**Incorrect Documentation ? [Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/tutorials/webhooks.md)**
+[Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/tutorials/webhooks.md)**
 
 ---

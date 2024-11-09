@@ -56,6 +56,6 @@ subjects:
 
 ---
 
-**Incorrect Documentation ? [Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/authentication.md)**
+[Edit this page](https://github.com/iam-anshul/AtomicCD-docs/blob/main/docs/authentication.md)**
 
 ---
